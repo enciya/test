@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T20:21:02.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.5.3" etag="Ti-NyhEXrgSUikry85dJ" type="github"><diagram id="YSo_khHKykI0nX7mdWZm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-04T20:49:58.735Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="f33ztJd3IU5bhHsut4Si" version="16.5.3" type="github">
+  <diagram id="YSo_khHKykI0nX7mdWZm" name="Page-1">
+    <mxGraphModel dx="1298" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ltWAd56437rM6kIkOuI-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-2" value="rg-TPS-Prod" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="49.94" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-3" value="rg-AG-Prod" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="49.94" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-4" value="rg-IP-Prod" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="49.94" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-5" value="WFG Subscription" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-14" value="rg-TPS-Test" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="49.94" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-15" value="rg-AG-Test" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="49.94" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-16" value="rg-IP-Test" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="49.94" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-19" value="rg-shared-services" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="345.03" y="500" width="49.94" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltWAd56437rM6kIkOuI-21" value="30&amp;nbsp; App x env + &lt;br&gt;1 resource group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
